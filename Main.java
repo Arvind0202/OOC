@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 import java.applet.*;
-
+// Arvind edited
 /*<applet code="Main" width =300 height=300></applet>*/
 
 public class Main extends Applet implements MouseListener
