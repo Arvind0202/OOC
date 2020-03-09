@@ -12,7 +12,7 @@ public class Main extends Applet implements MouseListener
     String msg="hj";
     
 int mx=0,my=0;
-    
+    //I typed this
 public void init()
     
 {
